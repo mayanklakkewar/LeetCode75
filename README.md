@@ -11,7 +11,7 @@ This repository contains my solutions to the LeetCode75 problems. I am dedicated
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/yourusername/LeetCode75.git
+    git clone https://github.com/mayanklakkewar/LeetCode75.git
     ```
 
 2. **Navigate to the specific day**:
@@ -21,16 +21,17 @@ This repository contains my solutions to the LeetCode75 problems. I am dedicated
 
 3. **Run the solution**:
     ```sh
-    python problem1.py
+    g++ problem1.cpp
     ```
 
 ## Contributions
 
 Feel free to fork this repository and submit pull requests. Any improvements or alternative solutions are welcome!
 
-## License
+## Check Out My LeetCode Profile
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+You can check out my LeetCode profile [here](https://leetcode.com/mayanklakkwar).
+
 
 ## Acknowledgments
 
