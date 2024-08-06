@@ -6,3 +6,35 @@ Welcome to my LeetCode75 solutions repository! 🎉
 ## Introduction
 
 This repository contains my solutions to the LeetCode75 problems. I am dedicated to solving 5 questions every day and uploading my solutions here. Each solution is thoroughly tested and explained to help others understand the approach.
+
+## How to Use
+
+1. **Clone the repository**:
+    ```sh
+    git clone https://github.com/yourusername/LeetCode75.git
+    ```
+
+2. **Navigate to the specific day**:
+    ```sh
+    cd LeetCode75/Day1
+    ```
+
+3. **Run the solution**:
+    ```sh
+    python problem1.py
+    ```
+
+## Contributions
+
+Feel free to fork this repository and submit pull requests. Any improvements or alternative solutions are welcome!
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+- Thanks to [LeetCode](https://leetcode.com) for providing such a great platform for coding practice.
+- Special thanks to the contributors and community for their support and inspiration.
+
+Happy Coding! 🚀
