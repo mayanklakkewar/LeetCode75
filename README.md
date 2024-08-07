@@ -30,7 +30,7 @@ Feel free to fork this repository and submit pull requests. Any improvements or 
 
 ## Check Out My LeetCode Profile
 
-You can check out my LeetCode profile [here](https://leetcode.com/mayanklakkwar).
+You can check out my LeetCode profile [here](https://leetcode.com/u/mayanklakkwar).
 
 
 ## Acknowledgments
